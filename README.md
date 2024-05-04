@@ -3,7 +3,8 @@
 ## About Me
 
 - 🔭 I’ve explored  RISC-V, Django, Flutter etc
-- 🌱 I’m currently learning System Verilog 
+- 🌱 I’m currently learning System Verilog
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/javeed-ahmad/)
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
